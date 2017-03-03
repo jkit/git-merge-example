@@ -1,0 +1,12 @@
+base 1
+base 2
+base 3
+base 4 to be identically modified in both
+base 5
+base 6 to create conflict
+base 7
+base 8 Delete from Left
+base 9
+base 10 Delete from Right
+base 11
+base 12 Delete from Both

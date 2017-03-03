@@ -1,0 +1,12 @@
+base 1
+Add line only Right
+base 2
+Add Line Left and Right
+base 3
+base 4 Modified Same Both
+base 5
+base 6 Modified Conflict Right
+base 7
+base 8 Delete from Left
+base 9
+base 11
